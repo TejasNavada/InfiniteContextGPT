@@ -1,6 +1,6 @@
 # InfiniteContextGPT
 
-This program allows you to pseudo extend the token limit of chatGPT to effectively unlimited. It does this by encoding sentences into a 384 dimension embedding space and them determines the sentences the most similar to the question and feeds those sentences to ChatGPT with the question.
+This program allows you to pseudo extend the token limit of chatGPT to effectively unlimited. It does this by encoding sentences into a 384 dimension embedding space and the determines the sentences the most similar to the question and feeds those sentences to ChatGPT with the question.
 
 # To Run
 
